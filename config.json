@@ -1,11 +1,11 @@
 {
-	"token": "MTE3NTA4MjY5NTA2ODQ5MTgyNg.GbbOOr.3geL12r4HIkg6v20TK-7LJ_yYBtSid_2oS2hLk",
-	"guildId": "1169312826469396563",
-    "id": "1175082695068491826",
-	"secret": "FsHdC-5WdfCtXRqv_hgLY2SEK_fVEJrI",
+	"token": "",
+	"guildId": "",
+    "id": "",
+	"secret": "",
     "port": 80,
     "domain": "http://localhost",
     "redirectUri": "/discord/callback",
-    "license": "06c031ef-fdba-47ac-8d5e-23aee05f73a6",
-    "ownerIDs": ["737283244072108034"]
+    "license": "",
+    "ownerIDs": [""]
 }
